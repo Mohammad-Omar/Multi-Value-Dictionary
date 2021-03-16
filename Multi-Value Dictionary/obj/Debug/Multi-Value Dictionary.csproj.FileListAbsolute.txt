@@ -1,0 +1,9 @@
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\bin\Debug\Multi-Value Dictionary.exe.config
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\bin\Debug\Multi-Value Dictionary.exe
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\bin\Debug\Multi-Value Dictionary.pdb
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\obj\Debug\Multi-Value Dictionary.csprojAssemblyReference.cache
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\obj\Debug\Multi-Value Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\obj\Debug\Multi-Value Dictionary.exe
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\obj\Debug\Multi-Value Dictionary.pdb
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\obj\Debug\Multi_Value_Dictionary.Properties.Resources.resources
+C:\Users\KothawalaM\source\repos\Multi-Value Dictionary\Multi-Value Dictionary\obj\Debug\Multi-Value Dictionary.csproj.GenerateResource.cache
