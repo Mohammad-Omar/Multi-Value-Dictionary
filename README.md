@@ -17,6 +17,10 @@
   ![image](https://user-images.githubusercontent.com/11328192/111387078-2bddfd00-867b-11eb-85b8-149730fd0db5.png)
 
 
+  **Run the Project**:  :
+  a) Click on the start button:  
+  ![image](https://user-images.githubusercontent.com/11328192/111387377-9ee77380-867b-11eb-9222-6396b761d6a0.png)
+
 
 
   
