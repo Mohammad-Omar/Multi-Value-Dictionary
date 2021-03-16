@@ -6,7 +6,7 @@ Requirements:
   d) Google chrome  
   
 
-Steps to Build Project:  
+**Steps to Build Project:**  
   a) go to URL from chrome: https://github.com/Mohammad-Omar/Multi-Value-Dictionary  
   b) Downoad code as zip:  
   ![image](https://user-images.githubusercontent.com/11328192/111386775-beca6780-867a-11eb-92af-a69aaba7149a.png)  
