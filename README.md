@@ -19,7 +19,7 @@
 
   **Run the Project**:  :  
   a) Click on the start button:  
-  ![image](https://user-images.githubusercontent.com/11328192/111387377-9ee77380-867b-11eb-9222-6396b761d6a0.png)
+  ![image](https://user-images.githubusercontent.com/11328192/111387377-9ee77380-867b-11eb-9222-6396b761d6a0.png)  
   b) program starts:  
   ![image](https://user-images.githubusercontent.com/11328192/111387504-d0603f00-867b-11eb-96ec-8db129a8444e.png)
 
